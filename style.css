@@ -1,0 +1,48 @@
+body {
+	background-color: lightblue;
+	border: 5px dotted white;
+
+}
+
+.top {
+	background-color: lightgrey;
+	
+}
+
+h1 {
+	color: seagreen;
+	font-family: times;
+	border: 5px solid white;
+	margin-left: 50px;
+	padding: 50px;
+}
+
+h5 {
+	color: yellow;
+
+}
+
+p {
+	color: white;
+	margin-left: 80px;
+
+}
+
+#highlight {
+		color: lightpink;
+		background-color: white;
+
+
+}
+
+img {
+	border:  5px solid greenyellow;
+	width: 50%;
+	height: 50%;
+	margin-left: 100px;
+}
+
+a {
+	color: orangered;
+	margin-left: 50px;
+}
